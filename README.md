@@ -1,3 +1,2 @@
-### En reservation system for a restaurant
-Student project from learning frontend developer at Medieinstitutet, Stockholm
-Build in React & NodeJS
+#### Reservation system for a restaurant
+Exercise by frontend development students at Medieinstitutet, Stockholm. Build in React & NodeJS.
